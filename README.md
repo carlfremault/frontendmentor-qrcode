@@ -39,7 +39,7 @@ I'm using Frontend Mentor to brush up and add to my HTML/CSS knowledge using rea
 ## Author
 
 - Website - [Carl Fremault](https://carlfremault.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@carlfremault](https://www.frontendmentor.io/profile/carlfremault)
 
 ## Acknowledgments
 
